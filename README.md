@@ -88,7 +88,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/kit0-0/budget.git
+  git clone https://github.com/Wils-FOURR-speed/Budget-App.git
 ```
 
 You need to setup database for these project
@@ -148,7 +148,7 @@ it will run the the server on ```localhost:3000```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kit0-0/budget.git/issues).
+Feel free to check the [issues page](https://github.com/Wils-FOURR-speed/Budget-App/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
