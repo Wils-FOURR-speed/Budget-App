@@ -1,19 +1,19 @@
 databases:
   - name: micronot
     ipAllowList: []
-    databaseName: micronot
-    user: micronot_user
+    databaseName: micronot_dnxx
+    user: micronot_dnxx_user
 
 services:
   - type: web
-    name: budget
+    name: Budget
     env: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: "bundle exec puma -C config/puma.rb"
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: micronot
+          name: micronot_dnxx
           property: connectionString
       - key: RAILS_MASTER_KEY
         sync: false
