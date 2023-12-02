@@ -32,7 +32,7 @@
 
 # 📖 Budget app <a name="about-project"></a>
 
-**Budget app** is a web application that allows users to perform CRUD (Create, Read, Update, Delete) operations. Users can add categories to keep track of their financial expenses. In each category, users can add purchases. On the category page, users can view the total amount of purchase items. When looking at the purchase page, users can see detailed data for each purchase.
+**Budget app** is a web application that allows users to perform CRUD (Create, Read, Update, Delete) operations. Users would be able to add categories to keep track of their financial expenses. In each category, users can add purchases. On the category page, users can view the total amount of purchase items. When looking at the purchase page, users can see detailed data for each purchase.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,13 +58,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo](https://budget-yczx.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🎬  VIdeo Walkthrough <a name="live-demo"></a>
 
-- [Video Demo Link]()
+- [Video Demo Link](https://www.loom.com/share/2c7548660ffd4fb880a7967278909281?sid=1aab3325-1f7a-41c9-a803-f9d7774c1c8b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
