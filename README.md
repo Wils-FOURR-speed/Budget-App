@@ -58,13 +58,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://budget-yczx.onrender.com/)
+- [Live Demo](https://budget-yczx.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🎬  VIdeo Walkthrough <a name="live-demo"></a>
 
-- [Video Demo Link]()
+- [Video Demo Link](https://www.loom.com/share/4ac0cc9941814a69963dff61ab4ad724?sid=a50c87e4-0c54-4346-a113-57e1722253c8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
