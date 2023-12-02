@@ -64,7 +64,7 @@
 
 ## 🎬  VIdeo Walkthrough <a name="live-demo"></a>
 
-- [Video Demo Link](https://www.loom.com/share/4ac0cc9941814a69963dff61ab4ad724?sid=a50c87e4-0c54-4346-a113-57e1722253c8)
+- [Video Demo Link](https://www.loom.com/share/2c7548660ffd4fb880a7967278909281?sid=1aab3325-1f7a-41c9-a803-f9d7774c1c8b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
